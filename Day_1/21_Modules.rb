@@ -3,6 +3,3 @@ module Hello
     puts "Hello"
   end
 end
-
-include Hello
-hello
